@@ -60,6 +60,8 @@
     <string name="dev10_description">Oneplus3</string>
     <string name="dev_11">Hamza Badar</string>
     <string name="dev11_description">Otus</string>
+	    <string name="dev_11">Jashaswee Jena</string>
+    <string name="dev11_description">Sprout4/Sprout8</string>
 
    <!-- Display & Lights screen, setting options for LCD density -->
     <string name="lcd_density">LCD density</string>
