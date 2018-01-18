@@ -86,12 +86,12 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         </Preference>
 
         <Preference
-            android:title="@string/maintainer_davide_garberi"
-            android:summary="@string/maintainer_davide_garberi_device"
+            android:title="@string/maintainer_shubh_mehtani"
+            android:summary="@string/maintainer_shubh_mehtani_device"
             android:icon="@drawable/ic_devs_phone">
         <intent
             android:action="android.intent.action.VIEW"
-            android:data="https://plus.google.com/115785202200164215005" />
+            android:data="https://plus.google.com/+ShubhMehtani" />
         </Preference>
 
         <Preference
