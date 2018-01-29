@@ -66,6 +66,8 @@
     <string name="maintainer_prakhar_srivastava_device">Z00L</string>
     <string name="maintainer_vimal_raj">Vimal Raj (Vimalraj1)</string>
     <string name="maintainer_vimal_raj_device">Santoni</string>
+    <string name="maintainer_sanchit_rohilla">Sanchit Rohilla (sanchitrohilla)</string> 
+    <string name="maintainer_sanchit_rohilla_device">tomato</string>
      
     <!-- Advanced night mode brightness -->
     <string name="night_brightness_category">Brightness</string>
