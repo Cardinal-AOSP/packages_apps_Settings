@@ -175,6 +175,15 @@ xmlns:android="http://schemas.android.com/apk/res/android"
             android:data="https://plus.google.com/u/2/110462949547059364040" />
         </Preference>
 
+        <Preference
+            android:title="@string/maintainer_ankit_yadav" 
+            android:summary="@string/maintainer_ankit_yadav_device" 
+            android:icon="@drawable/ic_devs_phone">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://plus.google.com/u/0/103943024120287187721" />
+        </Preference>
+
 </PreferenceCategory>
 
 <PreferenceCategory
